@@ -1,3 +1,5 @@
+import './styles/style.css'
+
 // sketch.js
 let searchInput;
 let searchButton;
